@@ -366,19 +366,19 @@ a{
 }
 #project_1{
     margin-left: 200px;
-    background-image: url(./Things_needed/project_1.png);
+    background-image: url(./images/project_1.png);
 }
 #project_2{
     margin-left: 300px;
-    background-image: url(./Things_needed/project_2.png);
+    background-image: url(./images/project_2.png);
 }
 #project_3{
     margin-left: 200px;
-    background-image: url(./Things_needed/project_1.png);
+    background-image: url(./images/project_1.png);
 }
 #project_4{
     margin-left: 300px;
-    background-image: url(./Things_needed/project_2.png);
+    background-image: url(./images/project_2.png);
 }
 
 .skills-container{
