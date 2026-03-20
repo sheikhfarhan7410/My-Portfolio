@@ -276,7 +276,7 @@ a{
 .project-card{
     width: 60%;
     height: 350px;
-    background-image: url(./Things_needed/project_1.png);
+    background-image: url(./images/project_1.png);
     background-size: cover;
     position: relative;
     box-shadow: 0px 0px 40px #1f1f1f;
@@ -366,19 +366,19 @@ a{
 }
 #project_1{
     margin-left: 200px;
-    background-image: url(./Things_needed/project_1.png);
+    background-image: url(./images/weather.jpg);
 }
 #project_2{
     margin-left: 300px;
-    background-image: url(./Things_needed/project_2.png);
+    background-image: url(./images/stopwatch.jpg);
 }
 #project_3{
     margin-left: 200px;
-    background-image: url(./Things_needed/project_1.png);
+    background-image: url(./images/tictactoe.jpg);
 }
 #project_4{
     margin-left: 300px;
-    background-image: url(./Things_needed/project_2.png);
+    background-image: url(./images/portfolio.jfif);
 }
 
 .skills-container{
