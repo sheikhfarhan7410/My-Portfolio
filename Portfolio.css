@@ -380,23 +380,6 @@ a{
 #project_4{
     margin-left: 300px;
     background-image: url(./images/portfolio.jfif);
-=======
-    background-image: url(./images/project_1.png);
-}
-#project_2{
-    margin-left: 300px;
-    background-image: url(./images/project_2.png);
-}
-#project_3{
-    margin-left: 200px;
-    background-image: url(./images/project_1.png);
-}
-#project_4{
-    margin-left: 300px;
-    background-image: url(./images/project_2.png);
->>>>>>> 6e15c6959a64b5e6bcdaa73df6337ba20cd0f07b
-}
-
 .skills-container{
     position: relative;
     display: flex;
